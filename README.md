@@ -9,9 +9,11 @@ En esta charla quiero contar cómo he introducido técnicas de Machine Learning 
 Además, expondré algunas aplicaciones y cómo estoy usando Python para ello.
 
 ## Referencias
+
 Vídeos:
 - *Inteligencia artificial en cardiología* (PyData Amsterdam 2018): [Why AI in the Medical Field Both Sucks and Rocks... - Kicky van Leeuwen](https://www.youtube.com/watch?v=kyu3TI2Ww2s&t=6s)
 - *Cómo tratar datos desbalanceados* (PyData ): [Resampling techniques and other strategies - Ajinkya More](https://www.youtube.com/watch?v=-Z1PaqYKC1w&t=2288s)
+
 Librerías:
 - Tratar con datos desbalanceados: [imblearn](https://github.com/scikit-learn-contrib/imbalanced-learn)
 - Librería de selección de variables biomédicas: [biofes](https://github.com/victorvicpal/biofes)
